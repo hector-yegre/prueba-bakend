@@ -64,3 +64,18 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+
+## despues de descargar el proyecto ejecuta composer install
+## ejecutar el comando php artisan migrate:refresh --seed para correr las migrasiones 
+## ejecutar php artisan serve
+
+## descripcion 
+se creo autenticacion por token 
+rutas protejitas
+crud de clientes
+paginado de datos y filtro de busqueda por cedula 
+puede crear, eliminar actualizar, obtener datos todos en formato json
+lso campos estan validados mediante formRequest de laravel
+se crearon unos factorys para cargar datos de pruebas 
