@@ -8,7 +8,7 @@ return new class extends Migration
 {
     /**
      * Run the migrations.
-     * asdasdasdas
+     * asdasdasdass
      */
     public function up(): void
     {
